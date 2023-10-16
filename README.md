@@ -1,9 +1,9 @@
-# EasyJob Role
-Role of this project is connecting job seekers, employers,freelancers and simplifies the job search process. 
-
 ## EasyJob
 
 EasyJob is a comprehensive platform designed to connect job seekers, employers, and freelancers, streamlining the job search process and facilitating meaningful connections in the professional world. By providing a user-friendly interface and powerful features, EasyJob aims to make finding employment opportunities and freelance projects effortless and efficient.
+
+![Sample Amazing Photo](https://i.pinimg.com/564x/d2/29/26/d22926f8e9213c6bf985c59dd1c0391c.jpg)
+
 
 ## Features
 
@@ -14,3 +14,5 @@ EasyJob is a comprehensive platform designed to connect job seekers, employers, 
 - **Freelancer Marketplace:** EasyJob provides a dedicated space for freelancers to present their skills, experience, and portfolios. Freelancers can explore project opportunities posted by businesses and connect directly with clients seeking their expertise.
 
 - **User-Friendly Interface:** Our platform prioritizes a seamless user experience, with a clean and intuitive interface that caters to users of all technical backgrounds. EasyJob ensures that job seekers, employers, and freelancers can navigate the platform effortlessly, maximizing their chances of success.
+
+  
