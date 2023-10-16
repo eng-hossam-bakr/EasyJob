@@ -2,7 +2,7 @@
 
 EasyJob is a comprehensive platform designed to connect job seekers, employers, and freelancers, streamlining the job search process and facilitating meaningful connections in the professional world. By providing a user-friendly interface and powerful features, EasyJob aims to make finding employment opportunities and freelance projects effortless and efficient.
 
-![Sample Amazing Photo]([https://i.pinimg.com/564x/d2/29/26/d22926f8e9213c6bf985c59dd1c0391c.jpg](https://s39940.pcdn.co/wp-content/uploads/2021/11/job-search-myths-bust.jpg))
+![Sample Amazing Photo](https://s39940.pcdn.co/wp-content/uploads/2021/11/job-search-myths-bust.jpg)
 
 
 ## Features
